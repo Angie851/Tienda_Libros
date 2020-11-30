@@ -1,6 +1,5 @@
-.
-.
-public class hash {
+
+pblic class hash {
     // Retorna un hash a partir de un tipo y un texto * /
     public  static  String  gethash ( String  txt , String  hashType ) {
         try {
