@@ -1,5 +1,4 @@
-# Tienda_Libros
-Programa de gestión de una tienda de libros 
+
 CREATE DATABASE Libreria;
 
 USE Libreria;
